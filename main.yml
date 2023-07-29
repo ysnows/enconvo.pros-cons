@@ -1,5 +1,5 @@
-name: Explain
-version: 0.0.1
+name: Pros and Cons
+version: 0.0.2
 author: enconvo
 on: {}
 steps:
@@ -28,7 +28,7 @@ steps:
         messages: []
 extensionId: enconvo.pros-cons
 logo: ns:explain
-description:  List pros and cons for the text
+description: List pros and cons for the text
 async: false
 homePage: https://github.com/ysnows/enconvo.pros-cons
 appCast: https://raw.githubusercontent.com/ysnows/enconvo.pros-cons/main/appcast.json
