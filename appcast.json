@@ -1,0 +1,17 @@
+{
+  "identifier": "enconvo.pros-cons",
+  "versions": [
+    {
+      "version": "0.0.5",
+      "desc": "feat: 1. 0.0.5",
+      "url": "https://github.com/ysnows/enconvo.pros-cons/releases/download/v0.0.5/enconvo.pros-cons.enconvoplugin",
+      "minAppVersion": "1.1.8"
+    },
+    {
+      "version": "0.0.3",
+      "desc": "feat: 1. 优化",
+      "url": "https://github.com/ysnows/enconvo.pros-cons/releases/download/v0.0.3/enconvo.pros-cons.enconvoplugin",
+      "minAppVersion": "1.1.8"
+    }
+  ]
+}
